@@ -1,6 +1,3 @@
-# In The Name Of God
-
-
 print('Please Wait...')
 import turtle
 
